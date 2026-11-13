@@ -1,0 +1,11 @@
+{
+    "compatibility_version": 1,
+    "version": 11,
+    "records": [
+        {
+            "application_id": "0x0100f2c0115b6000",
+            "function_id": "Launch",
+            "type": "Prohibited"
+        }
+    ]
+}

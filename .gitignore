@@ -1,0 +1,22 @@
+# Build directories (PLATFORM=switch / PLATFORM=switch2)
+build/
+build-switch2/
+
+# Homebrew outputs
+*.elf
+*.nacp
+*.nro
+
+# Sysmodule outputs (built instead of .nro if a config .json is present)
+*.nsp
+*.nso
+*.npdm
+
+# Editor / OS clutter
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+.cache/
+compile_commands.json
